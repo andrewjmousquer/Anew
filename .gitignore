@@ -1,0 +1,15 @@
+# Node Modules
+node_modules
+
+#Arquivos Temporários mikron-orm
+temp
+dist
+
+#Arquivo env
+.env
+
+# Deploy Manual
+.serverless
+
+#Config local editor de texto
+.editorconfig
